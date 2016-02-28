@@ -1,0 +1,1 @@
+enscript -G -2r -P${1:-$PRINTER} prac1.java
